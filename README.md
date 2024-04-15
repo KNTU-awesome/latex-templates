@@ -15,5 +15,6 @@ KNTU Beamer Presentation Theme - [KNTURetroTech](https://github.com/xemadp/kntu-
 KNTU Beamer Presentation Theme - [KNTURetroTech](https://github.com/xemadp/KNTURetroTech)
 
 ## Templates
-Thesis Template - (KNTU Thesis)[https://github.com/msinamsina/kntu-thesis/]
-TA Assitant - (KNTU TA Assistans)[https://github.com/EhsanAramide/TAALaTeX]
+Thesis Template - [KNTU Thesis](https://github.com/msinamsina/kntu-thesis/)
+
+TA Assitant - [KNTU TA Assistans](https://github.com/EhsanAramide/TAALaTeX)
